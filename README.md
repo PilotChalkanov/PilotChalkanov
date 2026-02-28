@@ -1,7 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&pause=1000&color=007E3D&random=false&width=435&lines=Hey+there!+I+am+Nikolay+Chalkanov...;++Big+Data+Engineer;)](https://git.io/typing-svg)
+
+
+<h2 style="color:#007E3D;"> 🔭 GitHub Stats</h2>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PilotChalkanov)](https://github.com/anuraghazra/github-readme-stats)
 
-Contributions
+<h2 style="color:#007E3D;">My contributions</h2>
+
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
